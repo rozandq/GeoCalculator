@@ -10,4 +10,11 @@ public:
    virtual double getPerimeter() = 0;
    void print();
 };
+
+class TriangleException : public std::exception {
+public:
+    string what () {
+            return "This triangle is invalid.";
+        }
+};
 #endif

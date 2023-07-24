@@ -4,7 +4,14 @@ using namespace std;
 
 Triangle::Triangle(double A, double B, double C):_A(A), _B(B), _C(C)
 {
-    this->name = "Triangle";
+    if (A + B > C && A + C > B && B + C > A)
+    {
+        this->name = "Triangle";
+    } 
+    else
+    {
+        throw TriangleException();
+    }
 }
 
 double Triangle::getArea()

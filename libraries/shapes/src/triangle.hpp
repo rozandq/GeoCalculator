@@ -12,5 +12,4 @@ public:
 private:
     double _A, _B, _C;
 };
-
 #endif

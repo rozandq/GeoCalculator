@@ -19,13 +19,6 @@ add_library(ShapesLib
 )
 target_include_directories(ShapesLib PUBLIC src)
 
-add_executable(hello_test tests/hello_test.cpp)
-target_link_libraries(hello_test GTest::gtest_main)
-gtest_add_tests(TARGET      hello_test
-                TEST_SUFFIX .noArgs
-                TEST_LIST   noArgsTests
-)
-
 add_executable(square_test tests/square_test.cpp)
 target_link_libraries(square_test ShapesLib GTest::gtest_main)
 gtest_add_tests(TARGET      square_test
@@ -46,6 +39,14 @@ gtest_add_tests(TARGET      disc_test
                 TEST_SUFFIX .noArgs
                 TEST_LIST   noArgsTests
 )
+
+add_executable(triangle_test tests/triangle_test.cpp)
+target_link_libraries(triangle_test ShapesLib GTest::gtest_main)
+gtest_add_tests(TARGET      triangle_test
+                TEST_SUFFIX .noArgs
+                TEST_LIST   noArgsTests
+)
+
 
 set_tests_properties(${noArgsTests}   PROPERTIES TIMEOUT 10)
 
