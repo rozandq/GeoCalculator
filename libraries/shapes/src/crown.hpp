@@ -4,6 +4,11 @@
 #include "shape.hpp"
 #include "disc.hpp"
 
+/**
+ * @brief Class to manage Crown shape
+ * @author Quentin Rozand
+ * @since Mon Jul 24 2023
+ */
 class Crown : public Shape {
 public:
     Crown(double externalRadius, double internalRadius);

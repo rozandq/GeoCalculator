@@ -8,6 +8,12 @@
 #include <iostream>
 using namespace std;
 
+/**
+ * @brief Create a concrete shape object by providing the requested information depending on the name passed as argument
+ * @param name name of the shape to create in [square, rectangle, disc, crown, triangle]
+ * @return Instance of a concrete shape object created with information provided
+ * @todo Rework to remove client action in this factory. The library should be independant from user.
+ */
 Shape* ShapeFactory::createShape(string name)
 {
     Shape* shape;

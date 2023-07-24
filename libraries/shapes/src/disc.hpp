@@ -3,6 +3,11 @@
 
 #include "shape.hpp"
 
+/**
+ * @brief Class to manage Disc shape
+ * @author Quentin Rozand
+ * @since Mon Jul 24 2023
+ */
 class Disc : public Shape {
 public:
     Disc(double radius);

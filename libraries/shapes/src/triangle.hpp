@@ -3,6 +3,11 @@
 
 #include "shape.hpp"
 
+/**
+ * @brief Class to manage Triangle shape
+ * @author Quentin Rozand
+ * @since Mon Jul 24 2023
+ */
 class Triangle : public Shape {
 public:
     Triangle(double A, double B, double C);
