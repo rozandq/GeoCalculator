@@ -1,0 +1,192 @@
+Start testing: Jul 24 14:07 Paris, Madrid (heure d’été)
+----------------------------------------------------------
+1/7 Testing: HelloTest.BasicAssertions.noArgs
+1/7 Test: HelloTest.BasicAssertions.noArgs
+Command: "C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes/hello_test.exe" "--gtest_filter=HelloTest.BasicAssertions"
+Directory: C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes
+"HelloTest.BasicAssertions.noArgs" start time: Jul 24 14:07 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = HelloTest.BasicAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HelloTest
+[ RUN      ] HelloTest.BasicAssertions
+[       OK ] HelloTest.BasicAssertions (0 ms)
+[----------] 1 test from HelloTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.07 sec
+----------------------------------------------------------
+Test Passed.
+"HelloTest.BasicAssertions.noArgs" end time: Jul 24 14:07 Paris, Madrid (heure d’été)
+"HelloTest.BasicAssertions.noArgs" time elapsed: 00:00:01
+----------------------------------------------------------
+
+2/7 Testing: SquareTest.SquarePerimeter.noArgs
+2/7 Test: SquareTest.SquarePerimeter.noArgs
+Command: "C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes/square_test.exe" "--gtest_filter=SquareTest.SquarePerimeter"
+Directory: C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes
+"SquareTest.SquarePerimeter.noArgs" start time: Jul 24 14:07 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = SquareTest.SquarePerimeter
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SquareTest
+[ RUN      ] SquareTest.SquarePerimeter
+[       OK ] SquareTest.SquarePerimeter (0 ms)
+[----------] 1 test from SquareTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"SquareTest.SquarePerimeter.noArgs" end time: Jul 24 14:07 Paris, Madrid (heure d’été)
+"SquareTest.SquarePerimeter.noArgs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/7 Testing: SquareTest.SquareArea.noArgs
+3/7 Test: SquareTest.SquareArea.noArgs
+Command: "C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes/square_test.exe" "--gtest_filter=SquareTest.SquareArea"
+Directory: C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes
+"SquareTest.SquareArea.noArgs" start time: Jul 24 14:07 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = SquareTest.SquareArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SquareTest
+[ RUN      ] SquareTest.SquareArea
+[       OK ] SquareTest.SquareArea (0 ms)
+[----------] 1 test from SquareTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"SquareTest.SquareArea.noArgs" end time: Jul 24 14:07 Paris, Madrid (heure d’été)
+"SquareTest.SquareArea.noArgs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/7 Testing: RectangleTest.RectanglePerimeter.noArgs
+4/7 Test: RectangleTest.RectanglePerimeter.noArgs
+Command: "C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes/rectangle_test.exe" "--gtest_filter=RectangleTest.RectanglePerimeter"
+Directory: C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes
+"RectangleTest.RectanglePerimeter.noArgs" start time: Jul 24 14:07 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = RectangleTest.RectanglePerimeter
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.RectanglePerimeter
+[       OK ] RectangleTest.RectanglePerimeter (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.RectanglePerimeter.noArgs" end time: Jul 24 14:07 Paris, Madrid (heure d’été)
+"RectangleTest.RectanglePerimeter.noArgs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/7 Testing: RectangleTest.RectangleArea.noArgs
+5/7 Test: RectangleTest.RectangleArea.noArgs
+Command: "C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes/rectangle_test.exe" "--gtest_filter=RectangleTest.RectangleArea"
+Directory: C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes
+"RectangleTest.RectangleArea.noArgs" start time: Jul 24 14:07 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = RectangleTest.RectangleArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.RectangleArea
+[       OK ] RectangleTest.RectangleArea (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.RectangleArea.noArgs" end time: Jul 24 14:07 Paris, Madrid (heure d’été)
+"RectangleTest.RectangleArea.noArgs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/7 Testing: DiscTest.DiscPerimeter.noArgs
+6/7 Test: DiscTest.DiscPerimeter.noArgs
+Command: "C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes/disc_test.exe" "--gtest_filter=DiscTest.DiscPerimeter"
+Directory: C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes
+"DiscTest.DiscPerimeter.noArgs" start time: Jul 24 14:07 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = DiscTest.DiscPerimeter
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DiscTest
+[ RUN      ] DiscTest.DiscPerimeter
+[       OK ] DiscTest.DiscPerimeter (0 ms)
+[----------] 1 test from DiscTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"DiscTest.DiscPerimeter.noArgs" end time: Jul 24 14:07 Paris, Madrid (heure d’été)
+"DiscTest.DiscPerimeter.noArgs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: DiscTest.DiscArea.noArgs
+7/7 Test: DiscTest.DiscArea.noArgs
+Command: "C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes/disc_test.exe" "--gtest_filter=DiscTest.DiscArea"
+Directory: C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/libraries/shapes
+"DiscTest.DiscArea.noArgs" start time: Jul 24 14:07 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = DiscTest.DiscArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DiscTest
+[ RUN      ] DiscTest.DiscArea
+[       OK ] DiscTest.DiscArea (0 ms)
+[----------] 1 test from DiscTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"DiscTest.DiscArea.noArgs" end time: Jul 24 14:07 Paris, Madrid (heure d’été)
+"DiscTest.DiscArea.noArgs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 24 14:07 Paris, Madrid (heure d’été)

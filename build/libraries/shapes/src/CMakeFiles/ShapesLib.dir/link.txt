@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libShapesLib.a CMakeFiles/ShapesLib.dir/shapeFactory.cpp.obj CMakeFiles/ShapesLib.dir/shape.cpp.obj CMakeFiles/ShapesLib.dir/rectangle.cpp.obj CMakeFiles/ShapesLib.dir/disc.cpp.obj CMakeFiles/ShapesLib.dir/crown.cpp.obj CMakeFiles/ShapesLib.dir/triangle.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libShapesLib.a

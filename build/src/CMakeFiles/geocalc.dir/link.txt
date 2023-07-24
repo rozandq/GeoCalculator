@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -E rm -f CMakeFiles\geocalc.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\geocalc.dir/objects.a @CMakeFiles\geocalc.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\geocalc.dir/objects.a -Wl,--no-whole-archive -o geocalc.exe -Wl,--out-implib,libgeocalc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\geocalc.dir\linkLibs.rsp

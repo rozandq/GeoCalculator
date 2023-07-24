@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="(empty)"
+	tests="7"
+	failures="0"
+	disabled="0"
+	skipped="0"
+	hostname=""
+	time="1"
+	timestamp="2023-07-24T14:07:36"
+	>
+	<testcase name="HelloTest.BasicAssertions.noArgs" classname="HelloTest.BasicAssertions.noArgs" time="1.07435" status="run">
+		<system-out>Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = HelloTest.BasicAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HelloTest
+[ RUN      ] HelloTest.BasicAssertions
+[       OK ] HelloTest.BasicAssertions (0 ms)
+[----------] 1 test from HelloTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+</system-out>
+	</testcase>
+	<testcase name="SquareTest.SquarePerimeter.noArgs" classname="SquareTest.SquarePerimeter.noArgs" time="0.127266" status="run">
+		<system-out>Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = SquareTest.SquarePerimeter
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SquareTest
+[ RUN      ] SquareTest.SquarePerimeter
+[       OK ] SquareTest.SquarePerimeter (0 ms)
+[----------] 1 test from SquareTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+</system-out>
+	</testcase>
+	<testcase name="SquareTest.SquareArea.noArgs" classname="SquareTest.SquareArea.noArgs" time="0.0410665" status="run">
+		<system-out>Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = SquareTest.SquareArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SquareTest
+[ RUN      ] SquareTest.SquareArea
+[       OK ] SquareTest.SquareArea (0 ms)
+[----------] 1 test from SquareTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+</system-out>
+	</testcase>
+	<testcase name="RectangleTest.RectanglePerimeter.noArgs" classname="RectangleTest.RectanglePerimeter.noArgs" time="0.116292" status="run">
+		<system-out>Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = RectangleTest.RectanglePerimeter
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.RectanglePerimeter
+[       OK ] RectangleTest.RectanglePerimeter (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+</system-out>
+	</testcase>
+	<testcase name="RectangleTest.RectangleArea.noArgs" classname="RectangleTest.RectangleArea.noArgs" time="0.0424344" status="run">
+		<system-out>Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = RectangleTest.RectangleArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.RectangleArea
+[       OK ] RectangleTest.RectangleArea (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+</system-out>
+	</testcase>
+	<testcase name="DiscTest.DiscPerimeter.noArgs" classname="DiscTest.DiscPerimeter.noArgs" time="0.148605" status="run">
+		<system-out>Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = DiscTest.DiscPerimeter
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DiscTest
+[ RUN      ] DiscTest.DiscPerimeter
+[       OK ] DiscTest.DiscPerimeter (0 ms)
+[----------] 1 test from DiscTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+</system-out>
+	</testcase>
+	<testcase name="DiscTest.DiscArea.noArgs" classname="DiscTest.DiscArea.noArgs" time="0.0472863" status="run">
+		<system-out>Running main() from C:\Users\quent\Documents\QR\Blueortho\GeoCalculator\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = DiscTest.DiscArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DiscTest
+[ RUN      ] DiscTest.DiscArea
+[       OK ] DiscTest.DiscArea (0 ms)
+[----------] 1 test from DiscTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+</system-out>
+	</testcase>
+</testsuite>

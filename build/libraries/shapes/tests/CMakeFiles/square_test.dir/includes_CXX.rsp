@@ -1,0 +1,1 @@
+-IC:/Users/quent/Documents/QR/Blueortho/GeoCalculator/libraries/shapes/tests/src -IC:/Users/quent/Documents/QR/Blueortho/GeoCalculator/libraries/shapes/src/src -isystem "C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/_deps/googletest-src/googletest/include" -isystem "C:/Users/quent/Documents/QR/Blueortho/GeoCalculator/build/_deps/googletest-src/googletest"
