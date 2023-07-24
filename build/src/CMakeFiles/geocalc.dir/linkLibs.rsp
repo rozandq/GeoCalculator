@@ -1,1 +1,0 @@
-  -LC:/Users/quent/Documents/QR/Blueortho/GeoCalculator/libraries/shapes/src  ../libraries/shapes/libShapesLib.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,2 +1,0 @@
-C:\msys64\mingw64\bin\ar.exe qc libFormsLib.a CMakeFiles/FormsLib.dir/shape.cpp.obj CMakeFiles/FormsLib.dir/rectangle.cpp.obj CMakeFiles/FormsLib.dir/disc.cpp.obj CMakeFiles/FormsLib.dir/crown.cpp.obj
-C:\msys64\mingw64\bin\ranlib.exe libFormsLib.a

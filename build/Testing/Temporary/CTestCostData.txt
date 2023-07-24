@@ -1,9 +1,0 @@
-HelloTest.BasicAssertions 6 0.00461968
-HelloTest.BasicAssertions.noArgs 7 0.153479
-SquareTest.SquarePerimeter.noArgs 7 0.0181809
-SquareTest.SquareArea.noArgs 5 0.0082133
-RectangleTest.RectanglePerimeter.noArgs 4 0.0290729
-RectangleTest.RectangleArea.noArgs 4 0.0106086
-DiscTest.DiscPerimeter.noArgs 2 0.0743024
-DiscTest.DiscArea.noArgs 2 0.0236432
----
